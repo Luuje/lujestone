@@ -3,12 +3,12 @@
 "author" : "Luje",
 "name" : "lujeStone",
 "keyWords" : "darkStone,modeTactique",
-"version" : "1.0.0",
-"dofusVersion" : "2.65",
+"version" : "1.0.1",
+"dofusVersion" : "2.66",
 "description" : "darkStone avec mode tactique contrasté",
 "url" : "https://github.com/Luuje/lujestone/raw/main/lujeStone.zip",
 "previewUrl" : "",
 "creationDate" : "19/11/2022",
-"modificationDate" : "19/11/2022"
+"modificationDate" : "08/03/2022"
 }
 ]
